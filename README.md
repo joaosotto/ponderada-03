@@ -18,7 +18,7 @@ O principal objetivo é explorar os recursos da AWS criando uma instância EC2, 
 
 1. Acessar o console da aws e ir para aba de instanciar uma EC2. Após, precisamos adicionar um nome ao servidor (ponderada semana 03), selecionar o sistema operacional desejado (windows), selecionar o tipo de instaância (t2.micro), criar um par de chaves de segurança (ponderada-03) e selecionar a quantidade de memória desejada.
 
-<img src="/ponderada-03/Captura de tela 2024-02-25 221731.jpg">
+<img src="/ponderada-03/Captura de tela 2024-02-25 222242.jpg">
 
 ### Passo 2: Acesso SSH à Instância
 
